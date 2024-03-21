@@ -1,0 +1,26 @@
+.container{
+    height: 200px;
+    width: 800px;
+    background-color: silver;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec_container{
+    height: 160px;
+    width: 760px;
+    background-color: rgba(0, 0, 0, 0.648);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.time{
+
+    font-size: 130px;
+    color: #15ff00;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
